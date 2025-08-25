@@ -17,8 +17,8 @@ Perfect for learning basic cryptography concepts and matrix transformations in p
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/sabarirajan83/encrypt-decrypt-tool.git
+cd encrypt-decrypt-tool
 
 ```
 
